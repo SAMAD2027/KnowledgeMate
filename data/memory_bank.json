@@ -1,0 +1,22 @@
+{
+  "student_001": {
+    "plan": {
+      "Math": [
+        "Algebra",
+        "Geometry",
+        "Calculus"
+      ],
+      "Science": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ]
+    },
+    "last_answer": "Answer to 'Explain Pythagoras theorem' based on plan: {'Math': ['Algebra', 'Geometry', 'Calculus'], 'Science': ['Physics', 'Chemistry', 'Biology']}\n[WebSearch] Top result: Top result for 'Explain Pythagoras theorem' - Example.com",
+    "content_Pythagoras theorem": "Practice exercises and notes on Pythagoras theorem",
+    "assessment": {
+      "score": 90,
+      "feedback": "Assessment complete. Score: 90/100. Last answer reviewed: Answer to 'Explain Pythagoras theorem' based on plan: {'Math': ['Algebra', 'Geometry', 'Calculus'], 'Science': ['Physics', 'Chemistry', 'Biology']}\n[WebSearch] Top result: Top result for 'Explain Pythagoras theorem' - Example.com"
+    }
+  }
+}

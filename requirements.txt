@@ -1,0 +1,8 @@
+openai
+numpy
+pandas
+scikit-learn
+faiss-cpu
+flask
+requests
+matplotlib
